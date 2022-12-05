@@ -7,15 +7,19 @@
 
 - 👯 I’m looking to collaborate on **C.A. Viso**
 
-- 💬 Ask me about **HTML, CSS, JavaScripit, TypeScript and Angular**
+- 💬 Ask me about **HTML, CSS, JavaScripit, TypeScript, Angular, Java & SpringBoot**
+
+- 💼 All of my projects are available at [https://github.com/JacintoRR396](https://github.com/JacintoRR396)
+
+- 👨‍💻 Visit my portfolio [https://jacintorr396.github.io/sdjr2-portfolio-js-front](https://jacintorr396.github.io/sdjr2-portfolio-js-front)
 
 - 📫 How to reach me **balbino.v12@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jacintor2](www.linkedin.com/in/jacintor2)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jacintor2/](https://www.linkedin.com/in/jacintor2/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jacintor2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jacintor2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jacintor2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jacintor2/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

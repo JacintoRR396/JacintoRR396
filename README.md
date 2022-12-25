@@ -11,7 +11,7 @@
 
 - 💼 All of my projects are available at [https://github.com/JacintoRR396](https://github.com/JacintoRR396)
 
-- 👨‍💻 Visit my portfolio [https://jacintorr396.github.io/sdjr2-portfolio-js-front](https://jacintorr396.github.io/sdjr2-portfolio-js-front)
+- 👨‍💻 Visit my portfolio [https://jacintorr396.github.io/sdjr2-web_portfolio-js](https://jacintorr396.github.io/sdjr2-web_portfolio-js)
 
 - 📫 How to reach me **balbino.v12@gmail.com**
 

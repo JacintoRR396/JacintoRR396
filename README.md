@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jacinto Roldán Rodríguez</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-- 🔭 I’m currently working on **ECI**
+- 🔭 I’m currently working on **SANTANDER**
 
-- 🌱 I’m currently learning **Angular and RxJs.**
+- 🌱 I’m currently learning **Java 11 & Spring Boot.**
 
 - 👯 I’m looking to collaborate on **C.A. Viso**
 
-- 💬 Ask me about **HTML, CSS, JavaScripit, TypeScript, Angular, Java & SpringBoot**
+- 💬 Ask me about **HTML, CSS, JavaScripit, TypeScript, RxJS, Angular, Java & SpringBoot**
 
 - 💼 All of my projects are available at [https://github.com/JacintoRR396](https://github.com/JacintoRR396)
 
